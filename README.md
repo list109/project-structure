@@ -1,3 +1,3 @@
-# The Project Structure
+# The Shop Admin
 
-The Project Structure using just the webpack for build (learn.javascipt.ru)
+the shop-admin project built on the project-structure template. it uses ajax tech to request and update data.
